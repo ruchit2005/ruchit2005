@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there, I'm Ruchit! 👋
 
-<!--
-**ruchit2005/ruchit2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer with experience in **Web Development** and a growing interest in **Machine Learning**. I enjoy solving real-world problems through technology and continuously learning new skills.
 
-Here are some ideas to get you started:
+### 🔥 About Me
+- 💻 Experienced in **Web Development** (Front-end & some Back-end)
+- 🧠 Exploring **Machine Learning & AI**
+- 🎮 Worked with **Unity** for game development
+- 🛠️ Experienced in **Fusion 360** for 3D modeling
+- 🚀 Passionate about building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, SQL
+- **Web Dev:** HTML, CSS, React, Node.js
+- **Game Dev:** Unity (C#)
+- **3D Modeling:** Fusion 360
+- **Tools:** Git, Jupyter Notebook, VS Code
+
+### 📌 Current Focus
+- Enhancing my development skills
+- Exploring different areas of tech
+- Collaborating on open-source projects
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruchit-gupta-608a6428b/)
+- 📧 Email: ruchitgupta05@gmail.com
+
+Let's connect and build something amazing together! 🚀
+
+
