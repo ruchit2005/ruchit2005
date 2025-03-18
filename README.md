@@ -21,6 +21,9 @@ I'm a developer with experience in **Web Development** and a growing interest in
 - Exploring different areas of tech
 - Collaborating on open-source projects
 
+[![An image of @ruchit2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruchit2005)](https://holopin.io/@ruchit2005)
+
+
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruchit-gupta-608a6428b/)
 - 📧 Email: ruchitgupta05@gmail.com
