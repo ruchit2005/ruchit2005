@@ -45,10 +45,9 @@ I love working at the intersection of **AI, finance, voice tech, and storytellin
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/ruchitgupta)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=firefox\&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:yourname@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ruchit-gupta-608a6428b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/ruchit2005)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ruchitgupta05@gmail.com)
 
 ---
 
@@ -56,12 +55,3 @@ I love working at the intersection of **AI, finance, voice tech, and storytellin
 
 
 [![An image of @ruchit2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruchit2005)](https://holopin.io/@ruchit2005)
-
-
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruchit-gupta-608a6428b/)
-- 📧 Email: ruchitgupta05@gmail.com
-
-Let's connect and build something amazing together! 🚀
-
-
