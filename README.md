@@ -7,9 +7,9 @@ I love working at the intersection of **AI, finance, voice tech, and storytellin
 
 ## 📊 GitHub Stats & Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ruchitgupta\&theme=tokyonight\&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchitgupta\&layout=compact\&theme=tokyonight\&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruchitgupta\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ruchit2005\&theme=tokyonight\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchit2005\&layout=compact\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruchit2005\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 ---
 
